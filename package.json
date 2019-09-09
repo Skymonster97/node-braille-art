@@ -1,0 +1,11 @@
+{
+  "name": "@skymonster97/node-braille-art",
+  "version": "0.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skymonster97/node-braille-art.git"
+  },
+  "license": "MIT",
+  "author": "Skymonster97"
+}

@@ -1,0 +1,13 @@
+node_modules/
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# OS
+[Dd]esktop.ini
+.DS_Store
+
+# Logs
+*.log
