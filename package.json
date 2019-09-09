@@ -1,11 +1,15 @@
 {
   "name": "@skymonster97/node-braille-art",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Skymonster97/node-braille-art.git"
   },
   "license": "MIT",
-  "author": "Skymonster97"
+  "author": "Skymonster97",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
 }
